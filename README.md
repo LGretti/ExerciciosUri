@@ -1,2 +1,2 @@
 # ExerciciosUri
-Exercícios feitos pela URI
+Exercícios feitos pela URI por mim
